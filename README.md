@@ -6,6 +6,7 @@
 | ------- |
 | [0494-target-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
 |  |
 | ------- |
