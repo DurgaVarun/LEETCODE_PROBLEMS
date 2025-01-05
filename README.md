@@ -13,6 +13,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1917-maximum-average-pass-ratio](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [2358-number-of-ways-to-split-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2465-shifting-letters-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -69,6 +70,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
+| [2465-shifting-letters-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting
 |  |
@@ -144,6 +146,7 @@
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
