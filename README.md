@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
@@ -38,6 +39,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -125,6 +127,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -196,4 +199,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
