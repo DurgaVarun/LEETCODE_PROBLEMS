@@ -21,6 +21,7 @@
 | [2465-shifting-letters-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2685-first-completely-painted-row-or-column](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -75,6 +76,7 @@
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
+| [2685-first-completely-painted-row-or-column](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -203,4 +205,5 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
