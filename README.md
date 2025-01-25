@@ -27,6 +27,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -62,6 +63,7 @@
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0820-find-eventual-safe-states) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
