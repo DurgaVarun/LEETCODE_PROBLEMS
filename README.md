@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2685-first-completely-painted-row-or-column) |
@@ -93,6 +94,7 @@
 | [1524-string-matching-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -104,6 +106,7 @@
 ## Counting
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
