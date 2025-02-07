@@ -34,6 +34,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -86,6 +88,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2685-first-completely-painted-row-or-column) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
