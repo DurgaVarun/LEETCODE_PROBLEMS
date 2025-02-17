@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1524-string-matching-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -126,6 +128,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
@@ -210,6 +213,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
 |  |
