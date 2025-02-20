@@ -22,6 +22,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2350-find-closest-number-to-zero](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2465-shifting-letters-ii) |
