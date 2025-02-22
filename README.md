@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1524-string-matching-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -169,6 +171,7 @@
 | [0684-redundant-connection](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
