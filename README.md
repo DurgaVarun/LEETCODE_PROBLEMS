@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
@@ -220,6 +221,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1025-minimum-cost-for-tickets) |
@@ -308,5 +310,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
