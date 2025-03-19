@@ -46,6 +46,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -79,6 +80,7 @@
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2478-longest-nice-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +270,7 @@
 | [2478-longest-nice-subarray](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
@@ -330,4 +334,8 @@
 | [0392-is-subsequence](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
