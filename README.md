@@ -230,6 +230,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Dynamic Programming
@@ -243,6 +244,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2562-count-ways-to-build-good-strings) |
 ## Backtracking
 |  |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Union Find
 |  |
 | ------- |
@@ -338,4 +341,8 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
