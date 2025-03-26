@@ -24,6 +24,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2350-find-closest-number-to-zero) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -108,6 +110,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -305,6 +308,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [2145-grid-game](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
