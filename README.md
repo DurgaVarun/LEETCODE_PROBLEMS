@@ -34,6 +34,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -68,6 +69,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -90,6 +92,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3430-count-days-without-meetings) |
@@ -214,6 +217,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -309,6 +313,7 @@
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [2145-grid-game](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
@@ -323,6 +328,7 @@
 | [0684-redundant-connection](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
@@ -345,6 +351,7 @@
 | [0392-is-subsequence](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Queue
 |  |
 | ------- |
