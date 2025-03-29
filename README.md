@@ -41,6 +41,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
@@ -61,6 +62,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -117,6 +120,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -174,6 +178,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -181,6 +186,7 @@
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
@@ -360,4 +366,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
