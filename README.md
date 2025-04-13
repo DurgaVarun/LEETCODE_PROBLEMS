@@ -123,6 +123,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2649-count-total-number-of-colored-cells) |
@@ -397,4 +398,8 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
