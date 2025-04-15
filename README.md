@@ -29,6 +29,7 @@
 | [2145-grid-game](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2358-number-of-ways-to-split-array) |
@@ -85,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2280-count-good-triplets-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
@@ -251,10 +253,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
 |  |
@@ -363,6 +367,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -404,4 +409,12 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2050-count-good-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
