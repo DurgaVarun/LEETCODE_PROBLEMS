@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0038-count-and-say) |
 | [0392-is-subsequence](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
