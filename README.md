@@ -39,6 +39,7 @@
 | [2465-shifting-letters-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -403,6 +405,7 @@
 ## Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Shortest Path
 |  |
@@ -436,4 +439,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2280-count-good-triplets-in-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
