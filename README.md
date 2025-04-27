@@ -65,6 +65,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Greedy
 |  |
 | ------- |
