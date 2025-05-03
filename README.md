@@ -12,6 +12,7 @@
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1063-best-sightseeing-pair) |
 | [1477-product-of-the-last-k-numbers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0768-partition-labels](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1917-maximum-average-pass-ratio](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
