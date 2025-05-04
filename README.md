@@ -14,6 +14,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1063-best-sightseeing-pair) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -163,6 +164,7 @@
 | [0768-partition-labels](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
