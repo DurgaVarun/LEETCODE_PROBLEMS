@@ -161,6 +161,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3637-count-number-of-balanced-permutations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
@@ -315,6 +317,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2562-count-ways-to-build-good-strings) |
+| [3637-count-number-of-balanced-permutations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -438,6 +441,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
