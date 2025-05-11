@@ -15,6 +15,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1293-three-consecutive-odds) |
 | [1477-product-of-the-last-k-numbers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
