@@ -63,6 +63,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3430-count-days-without-meetings) |
@@ -130,6 +131,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
@@ -160,6 +162,7 @@
 | [2998-count-symmetric-integers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3637-count-number-of-balanced-permutations) |
