@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1160-letter-tile-possibilities) |
@@ -381,6 +383,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [2145-grid-game](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2145-grid-game) |
