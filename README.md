@@ -73,6 +73,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Greedy
@@ -88,6 +89,7 @@
 | [2509-minimize-xor](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3001-apply-operations-to-maximize-score) |
+| [3647-zero-array-transformation-iii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
 |  |
@@ -349,6 +353,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
