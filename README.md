@@ -277,6 +277,7 @@
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -324,6 +325,7 @@
 | [0684-redundant-connection](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
