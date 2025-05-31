@@ -11,6 +11,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -292,6 +293,7 @@
 | [0684-redundant-connection](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -408,6 +410,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0945-snakes-and-ladders) |
 | [2145-grid-game](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
