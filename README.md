@@ -19,6 +19,7 @@
 | [1063-best-sightseeing-pair](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1293-three-consecutive-odds) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -298,6 +299,7 @@
 | [0854-making-a-large-island](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -329,6 +331,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/DurgaVarun/LEETCODE_PROBLEMS/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
