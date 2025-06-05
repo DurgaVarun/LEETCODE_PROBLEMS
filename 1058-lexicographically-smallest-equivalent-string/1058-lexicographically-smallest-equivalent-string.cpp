@@ -1,61 +1,37 @@
 class Solution {
 public:
-    class Graph {
-        int V;
-        list<char> *l;
-    public:
-        Graph(int V) { //Constructor
-            this->V = V;
-            l = new list<char>[V];
-        }
-
-        void addEdge(char u, char v) { //Add EDGE
-            l[u - 'a'].push_back(v);
-            l[v - 'a'].push_back(u);
-        }
-
-        //DFS Helper
-        char dfsHelper(char curr, vector<int> &vis) { //O(V+E)
-            vis[curr-'a'] = 1; //MARk Visted
-            char minChar = curr;
-
-            list<char> neighbours = l[curr-'a'];
-            for(char &v : neighbours) {
-                if(vis[v-'a'] == 0) {
-                    minChar = min(minChar, dfsHelper(v, vis)); //REUcurive CALL
-                }
+    // DFS to find the smallest lex character in the component
+    char dfs(unordered_map<char, vector<char>>& adj, char cur, vector<int>& vis) {
+        vis[cur - 'a'] = 1;
+        char minChar = cur;
+        for (char neighbor : adj[cur]) {
+            if (vis[neighbor - 'a'] == 0) {
+                minChar = min(minChar, dfs(adj, neighbor, vis));
             }
-
-            return minChar;
         }
-
-        //DFS
-        string dfs(string &s1) {
-            string ans;
-
-            for(int i = 0; i < s1.length(); i++) {
-                char ch  = s1[i];
-
-                vector<int> vis(26, 0);
-
-                char minChar = dfsHelper(ch, vis);
-
-                ans.push_back(minChar);
-            }
-
-            return ans;
-        }
-    };
+        return minChar;
+    }
 
     string smallestEquivalentString(string s1, string s2, string baseStr) {
-        int n = s1.size();
+        int n = s1.length();
+        unordered_map<char, vector<char>> adj;
 
-        Graph graph(26);
-
-        for(int i = 0; i < n; i++) {
-            graph.addEdge(s1[i], s2[i]);
+        // Step 1: Build the equivalence graph
+        for (int i = 0; i < n; ++i) {
+            char u = s1[i];
+            char v = s2[i];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
 
-        return graph.dfs(baseStr);
+        // Step 2: Replace each character in baseStr with the smallest equivalent
+        string result;
+        for (char ch : baseStr) {
+            vector<int> vis(26, 0);
+            char minChar = dfs(adj, ch, vis);
+            result.push_back(minChar);
+        }
+
+        return result;
     }
 };
